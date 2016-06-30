@@ -53,7 +53,7 @@ The algorithm is based on an article of Brian Grinstead found named [A* Search A
 4. Search for the sorted route pasing the start and end nodes. As a result you get the list of nodes or empty if not path found
 
   ```js
-  a.search (n1, n2, function (err, result) {
+  astar.search (n1, n2, function (err, result) {
 
       result.forEach(function (doc) {
         console.log(doc.id);
