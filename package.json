@@ -1,0 +1,26 @@
+{
+  "name": "node-astar",
+  "version": "0.1.0",
+  "description": "A* search algorithm implementation",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clubifaximatic/node-astar.git"
+  },
+  "keywords": [
+    "astar",
+    "a*",
+    "a-star",
+    "pathfinding",
+    "search"
+  ],
+  "author": "Javier Noguera <bob@mallzee.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clubifaximatic/node-astar/issues"
+  },
+  "homepage": "https://github.com/clubifaximatic/node-astar#readme"
+}
